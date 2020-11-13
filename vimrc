@@ -34,5 +34,3 @@ set backspace=indent,eol,start
 " Show trailing white spaces
 set listchars=tab:>>,trail:!,eol:$
 
-" Show visual bell instead of sound
-set visualbell
