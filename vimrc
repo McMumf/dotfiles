@@ -1,0 +1,38 @@
+set encoding=utf-8
+
+" Show line numbers
+set number
+
+" For searching
+set hlsearch
+set ignorecase
+set smartcase
+
+" Tab settings
+set expandtab
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set smarttab
+set autoindent
+
+" Enable misspelled highlighting
+set spell
+
+" Set syntax highlighting
+syntax on
+
+" Display row/column info
+set ruler
+
+" Underline current line
+set cursorline
+
+" Allow backspacing
+set backspace=indent,eol,start
+
+" Show trailing white spaces
+set listchars=tab:>>,trail:!,eol:$
+
+" Show visual bell instead of sound
+set visualbell
