@@ -3,6 +3,9 @@ set encoding=utf-8
 " Show line numbers
 set number
 
+" Enable mouse to not copy line numbers
+set mouse+=a
+
 " For searching
 set hlsearch
 set ignorecase
