@@ -20,5 +20,6 @@ get_git_branch() {
 export PS1="\n\[\033[01;31m\]\u@\[\033[01;36m\]\h \[\033[01;36m\]\$(get_git_branch) \[\033[01;37m\]\w \[\033[01;35m\]\n\$ \e[0;37m"
 
 # Aliases
+alias pls="sudo"2
 alias reload="source ~/.bashrc"
 alias grep="grep --color -irn"
