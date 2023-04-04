@@ -1,3 +1,5 @@
+" .vimrc
+
 set encoding=utf-8
 
 " Show line numbers
