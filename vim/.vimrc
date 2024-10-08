@@ -56,7 +56,6 @@ set incsearch
 set ignorecase
 set smartcase
 set showmatch
-" Textmate holdouts
 
 " Visualize tabs and newlines
 set listchars=tab:▸\ ,eol:¬
