@@ -13,4 +13,7 @@ fi
 PATH="$HOME/.local/bin:$HOME/bin:$PATH"
 export PATH
 
+source <(kubectl completion bash)
+source <(helm completion bash)
+
 eval "$(starship init bash)"

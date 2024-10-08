@@ -1,6 +1,0 @@
-# .bash_aliases
-
-alias pls='sudo'
-alias reload='source ~/.bashrc'
-alias grep='grep --color -irn'
-alias fgb='cd $OLDPWD'2
