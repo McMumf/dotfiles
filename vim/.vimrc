@@ -21,8 +21,6 @@ set ruler
 " Blink cursor on error instead of beeping (grr)
 set visualbell
 
-" Encoding
-
 " Whitespace
 set wrap
 set textwidth=79
